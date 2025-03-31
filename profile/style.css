@@ -1,0 +1,6 @@
+/* フォント設定 */
+body {
+    font-family: "Arial", "Meiryo", sans-serif;
+    font-size: 30px;
+    text-align: center;
+  }
